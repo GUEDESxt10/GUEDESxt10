@@ -6,4 +6,8 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Known-Ad-8822/)
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GUEDESxt10&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUEDESxt10&layout=compact&theme=tokyonight" />
+</p>
 
