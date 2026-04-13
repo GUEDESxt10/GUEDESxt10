@@ -11,7 +11,7 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 
 # Linguagens ↓
-<p align="center">
+<p 
   <img src="https://skillicons.dev/icons?i=js,html,css,python" />
 </p>
 
@@ -19,6 +19,6 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GUEDESxt10&theme=tokyonight)
-<p align="center">
+<p 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUEDESxt10&theme=tokyonight" />
 </p>
