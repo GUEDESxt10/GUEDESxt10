@@ -26,5 +26,5 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 ![Python](https://img.shields.io/badge/Python-15%25-green)
 ![Portugol](https://img.shields.io/badge/Portugol-10%25-red)
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GUEDESxt10&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GUEDESxt10&show_icons=true&theme=tokyonight)
