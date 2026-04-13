@@ -13,5 +13,7 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 # Linguagens ↓
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Portugol Studio](https://img.shields.io/badge/Portugol-Studio-2196F3?style=for-the-badge&logo=codeforces&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Portugol Studio](https://img.shields.io/badge/Lógica-Portugol-orange?style=for-the-badge&logo=exercism&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
