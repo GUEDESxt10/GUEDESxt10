@@ -20,4 +20,4 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 ## Meu Status ⚡
 
-![Status de Altanio](https://github-readme-stats.vercel.app/api?username=GUEDESxt10&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=GUEDESxt10&show_icons=true&theme=radical" />
