@@ -19,8 +19,5 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Meu Status ⚡
-## Meu Status ⚡
 
 ![Status de Altanio](https://github-readme-stats.vercel.app/api?username=GUEDESxt10&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GUEDESxt10&layout=compact&theme=radical)
