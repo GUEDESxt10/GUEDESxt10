@@ -17,3 +17,5 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Portugol Studio](https://img.shields.io/badge/Lógica-Portugol-orange?style=for-the-badge&logo=exercism&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Status de Altanio](https://github-readme-stats.vercel.app/api?username=GUEDESxt10-AQUI&show_icons=true&theme=dracula)
