@@ -20,3 +20,8 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 ## Meu Status ⚡
 
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-20%25-orange)
+![CSS3](https://img.shields.io/badge/CSS3-15%25-blue)
+![Python](https://img.shields.io/badge/Python-15%25-green)
+![Portugol](https://img.shields.io/badge/Portugol-10%25-red)
