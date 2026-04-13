@@ -41,5 +41,11 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Meu Status ⚡
+<div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/SEU_USUARIO/SEU_REPO/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPO.svg)](https://github.com/SEU_USUARIO/SEU_REPO/stargazers)
+[![Forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPO.svg)](https://github.com/SEU_USUARIO/SEU_REPO/network)
+[![Issues](https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPO.svg)](https://github.com/SEU_USUARIO/SEU_REPO/issues)
+
+</div>
