@@ -11,20 +11,14 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 
 # Linguagens ↓
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Portugol Studio](https://img.shields.io/badge/Lógica-Portugol-orange?style=for-the-badge&logo=exercism&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
 
 ## Meu Status ⚡
 
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
-![HTML5](https://img.shields.io/badge/HTML5-20%25-orange)
-![CSS3](https://img.shields.io/badge/CSS3-15%25-blue)
-![Python](https://img.shields.io/badge/Python-15%25-green)
-![Portugol](https://img.shields.io/badge/Portugol-10%25-red)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GUEDESxt10&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUEDESxt10&theme=tokyonight" />
+</p>
