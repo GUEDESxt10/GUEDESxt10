@@ -14,4 +14,4 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Portugol Studio](https://img.shields.io/badge/Portugol-Studio-2196F3?style=for-the-badge&logo=codeforces&logoColor=white)
-
+![Portugol Studio](https://img.shields.io/badge/Lógica-Portugol-orange?style=for-the-badge&logo=exercism&logoColor=white)
