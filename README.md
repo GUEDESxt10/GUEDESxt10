@@ -12,5 +12,7 @@ Eu sou programador, Estudo 10° classe e estou usando portugol studio para lógi
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
+# Linguagens ↓
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
