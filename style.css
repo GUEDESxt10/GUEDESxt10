@@ -1,0 +1,145 @@
+/* Importando uma fonte moderna do Google */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Container Principal */
+body > * {
+    max-width: 500px;
+    width: 100%;
+}
+
+/* Efeito de Vidro no Card (Envolvendo o conteúdo) */
+body {
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: fadeInDown 1s ease-out;
+}
+
+/* Estilização dos Parágrafos */
+p {
+    background: rgba(255, 255, 255, 0.05);
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    border-left: 4px solid #4facfe;
+    transition: transform 0.3s ease, background 0.3s ease;
+    animation: fadeInLeft 0.8s ease-out forwards;
+    opacity: 0;
+}
+
+p:hover {
+    transform: translateX(10px);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+strong {
+    color: #00f2fe;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+}
+
+/* Estilização dos Links (Botões) */
+a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    background: #4facfe;
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-left: 10px;
+    transition: all 0.3s;
+}
+
+a:hover {
+    background: #fff;
+    color: #4facfe;
+    box-shadow: 0 0 15px rgba(79, 172, 254, 0.6);
+}
+
+/* Imagem de Perfil */
+img {
+    display: block;
+    margin: 30px auto;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #4facfe;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    animation: zoomIn 1s ease-out;
+    transition: transform 0.5s;
+}
+
+img:hover {
+    transform: rotate(5deg) scale(1.1);
+}
+
+/* --- ANIMAÇÕES --- */
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes zoomIn {
+    from {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Delays para as linhas aparecerem uma após a outra */
+p:nth-child(2) { animation-delay: 0.2s; }
+p:nth-child(3) { animation-delay: 0.4s; }
+p:nth-child(4) { animation-delay: 0.6s; }
+p:nth-child(6) { animation-delay: 0.8s; }
+p:nth-child(7) { animation-delay: 1.0s; }
+p:nth-child(8) { animation-delay: 1.2s; }
